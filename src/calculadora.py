@@ -7,8 +7,8 @@ def dividir(a, b):
     return a / b
 
 def subtrair(a, b):
-    return a - b
+    return a - b + 1
 
 def multiplicar(a, b):
-    return a * b
+    return a * b + 1
 
